@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1627630470 source:c:\users\vinay\onedrive\desktop\vinay cg programs\rotatingfan\main.cpp
+	<windows.h>
+	<GL/glut.h>
+	<stdlib.h>
+	<math.h>
+
